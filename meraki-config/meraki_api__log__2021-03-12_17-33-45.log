@@ -1,0 +1,187 @@
+2021-03-12 17:33:45       meraki:     INFO > Meraki dashboard API session initialized with these parameters: {'version': '1.6.2', 'api_key': '************************************dcab', 'base_url': 'https://api.meraki.com/api/v1', 'single_request_timeout': 60, 'certificate_path': '', 'requests_proxy': '', 'wait_on_rate_limit': True, 'nginx_429_retry_wait_time': 60, 'action_batch_retry_wait_time': 60, 'retry_4xx_error': False, 'retry_4xx_error_wait_time': 60, 'maximum_retries': 2, 'simulate': False, 'be_geo_id': None, 'caller': None}
+2021-03-12 17:33:45       meraki:    DEBUG > {'tags': ['organizations', 'configure'], 'operation': 'getOrganizations', 'method': 'GET', 'url': '/organizations', 'params': None}
+2021-03-12 17:33:45       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations
+2021-03-12 17:33:46       meraki:     INFO > organizations, getOrganizations - 200 OK
+2021-03-12 17:33:46       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:46       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842324/networks
+2021-03-12 17:33:46       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:46       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:46       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842188/networks
+2021-03-12 17:33:47       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:47       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:47       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842312/networks
+2021-03-12 17:33:47       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:47       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:47       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842316/networks
+2021-03-12 17:33:48       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:48       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:48       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842315/networks
+2021-03-12 17:33:48       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:48       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:48       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842317/networks
+2021-03-12 17:33:48       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:48       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:48       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842296/networks
+2021-03-12 17:33:49       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:49       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:49       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842298/networks
+2021-03-12 17:33:49       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:49       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:49       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842295/networks
+2021-03-12 17:33:49       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:49       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:49       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842308/networks
+2021-03-12 17:33:50       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:50       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:50       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842314/networks
+2021-03-12 17:33:50       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:50       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:50       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842300/networks
+2021-03-12 17:33:51       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:51       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:51       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842304/networks
+2021-03-12 17:33:52       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:52       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:52       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842321/networks
+2021-03-12 17:33:53       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:53       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:53       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842320/networks
+2021-03-12 17:33:53       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:53       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:53       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842327/networks
+2021-03-12 17:33:54       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:54       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:54       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842319/networks
+2021-03-12 17:33:54       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:54       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:54       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842307/networks
+2021-03-12 17:33:55       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:55       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:55       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/783626335162466313/networks
+2021-03-12 17:33:55       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:55       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:55       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/635570497412663072/networks
+2021-03-12 17:33:55       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:55       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:55       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/550449/networks
+2021-03-12 17:33:56       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:56       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:56       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/779083/networks
+2021-03-12 17:33:57       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:57       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:57       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/646829496481089588/networks
+2021-03-12 17:33:57       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:57       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:57       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/549236/networks
+2021-03-12 17:33:57       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:57       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:33:57       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/622059698530550152/networks
+2021-03-12 17:33:58       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:33:58       meraki:    DEBUG > {'tags': ['appliance', 'configure', 'vlans', 'settings'], 'operation': 'updateNetworkApplianceVlansSettings', 'method': 'PUT', 'url': '/networks/L_622059698530555249/appliance/vlans/settings', 'json': {'vlansEnabled': True}}
+2021-03-12 17:33:58       meraki:     INFO > PUT https://api.meraki.com/api/v1/networks/L_622059698530555249/appliance/vlans/settings
+2021-03-12 17:33:59       meraki:     INFO > appliance, updateNetworkApplianceVlansSettings - 200 OK
+2021-03-12 17:33:59       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'createOrganizationActionBatch', 'method': 'POST', 'url': '/organizations/622059698530550152/actionBatches', 'json': {'confirmed': True, 'synchronous': False, 'actions': [{'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 2, 'name': 'VLAN 2', 'applianceIp': '192.168.2.1', 'subnet': '192.168.2.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 3, 'name': 'VLAN 3', 'applianceIp': '192.168.3.1', 'subnet': '192.168.3.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 4, 'name': 'VLAN 4', 'applianceIp': '192.168.4.1', 'subnet': '192.168.4.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 5, 'name': 'VLAN 5', 'applianceIp': '192.168.5.1', 'subnet': '192.168.5.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 6, 'name': 'VLAN 6', 'applianceIp': '192.168.6.1', 'subnet': '192.168.6.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 7, 'name': 'VLAN 7', 'applianceIp': '192.168.7.1', 'subnet': '192.168.7.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 8, 'name': 'VLAN 8', 'applianceIp': '192.168.8.1', 'subnet': '192.168.8.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 9, 'name': 'VLAN 9', 'applianceIp': '192.168.9.1', 'subnet': '192.168.9.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 10, 'name': 'VLAN 10', 'applianceIp': '192.168.10.1', 'subnet': '192.168.10.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 11, 'name': 'VLAN 11', 'applianceIp': '192.168.11.1', 'subnet': '192.168.11.0/24'}}]}}
+2021-03-12 17:33:59       meraki:     INFO > POST https://api.meraki.com/api/v1/organizations/622059698530550152/actionBatches
+2021-03-12 17:33:59       meraki:     INFO > organizations, createOrganizationActionBatch - 201 Created
+2021-03-12 17:33:59       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'getOrganizationActionBatch', 'method': 'GET', 'url': '/organizations/622059698530550152/actionBatches/622059698530550041', 'params': None}
+2021-03-12 17:33:59       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/622059698530550152/actionBatches/622059698530550041
+2021-03-12 17:33:59       meraki:     INFO > organizations, getOrganizationActionBatch - 200 OK
+2021-03-12 17:33:59       meraki:    DEBUG > {'tags': ['appliance', 'configure', 'vlans', 'settings'], 'operation': 'updateNetworkApplianceVlansSettings', 'method': 'PUT', 'url': '/networks/L_622059698530555249/appliance/vlans/settings', 'json': {'vlansEnabled': True}}
+2021-03-12 17:33:59       meraki:     INFO > PUT https://api.meraki.com/api/v1/networks/L_622059698530555249/appliance/vlans/settings
+2021-03-12 17:34:00       meraki:     INFO > appliance, updateNetworkApplianceVlansSettings - 200 OK
+2021-03-12 17:34:00       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'createOrganizationActionBatch', 'method': 'POST', 'url': '/organizations/622059698530550152/actionBatches', 'json': {'confirmed': True, 'synchronous': False, 'actions': [{'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 2, 'name': 'VLAN 2', 'applianceIp': '192.168.2.1', 'subnet': '192.168.2.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 3, 'name': 'VLAN 3', 'applianceIp': '192.168.3.1', 'subnet': '192.168.3.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 4, 'name': 'VLAN 4', 'applianceIp': '192.168.4.1', 'subnet': '192.168.4.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 5, 'name': 'VLAN 5', 'applianceIp': '192.168.5.1', 'subnet': '192.168.5.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 6, 'name': 'VLAN 6', 'applianceIp': '192.168.6.1', 'subnet': '192.168.6.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 7, 'name': 'VLAN 7', 'applianceIp': '192.168.7.1', 'subnet': '192.168.7.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 8, 'name': 'VLAN 8', 'applianceIp': '192.168.8.1', 'subnet': '192.168.8.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 9, 'name': 'VLAN 9', 'applianceIp': '192.168.9.1', 'subnet': '192.168.9.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 10, 'name': 'VLAN 10', 'applianceIp': '192.168.10.1', 'subnet': '192.168.10.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 11, 'name': 'VLAN 11', 'applianceIp': '192.168.11.1', 'subnet': '192.168.11.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 12, 'name': 'VLAN 12', 'applianceIp': '192.168.12.1', 'subnet': '192.168.12.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 13, 'name': 'VLAN 13', 'applianceIp': '192.168.13.1', 'subnet': '192.168.13.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 14, 'name': 'VLAN 14', 'applianceIp': '192.168.14.1', 'subnet': '192.168.14.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 15, 'name': 'VLAN 15', 'applianceIp': '192.168.15.1', 'subnet': '192.168.15.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 16, 'name': 'VLAN 16', 'applianceIp': '192.168.16.1', 'subnet': '192.168.16.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 17, 'name': 'VLAN 17', 'applianceIp': '192.168.17.1', 'subnet': '192.168.17.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 18, 'name': 'VLAN 18', 'applianceIp': '192.168.18.1', 'subnet': '192.168.18.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 19, 'name': 'VLAN 19', 'applianceIp': '192.168.19.1', 'subnet': '192.168.19.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 20, 'name': 'VLAN 20', 'applianceIp': '192.168.20.1', 'subnet': '192.168.20.0/24'}}, {'resource': '/networks/L_622059698530555249/vlans', 'operation': 'create', 'body': {'id': 21, 'name': 'VLAN 21', 'applianceIp': '192.168.21.1', 'subnet': '192.168.21.0/24'}}]}}
+2021-03-12 17:34:00       meraki:     INFO > POST https://api.meraki.com/api/v1/organizations/622059698530550152/actionBatches
+2021-03-12 17:34:00       meraki:     INFO > organizations, createOrganizationActionBatch - 201 Created
+2021-03-12 17:34:00       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'getOrganizationActionBatch', 'method': 'GET', 'url': '/organizations/622059698530550152/actionBatches/622059698530550042', 'params': None}
+2021-03-12 17:34:00       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/622059698530550152/actionBatches/622059698530550042
+2021-03-12 17:34:01       meraki:     INFO > organizations, getOrganizationActionBatch - 200 OK
+2021-03-12 17:34:01       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:01       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/1011273/networks
+2021-03-12 17:34:02       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:02       meraki:    DEBUG > {'tags': ['appliance', 'configure', 'vlans', 'settings'], 'operation': 'updateNetworkApplianceVlansSettings', 'method': 'PUT', 'url': '/networks/L_622059698530555003/appliance/vlans/settings', 'json': {'vlansEnabled': True}}
+2021-03-12 17:34:02       meraki:     INFO > PUT https://api.meraki.com/api/v1/networks/L_622059698530555003/appliance/vlans/settings
+2021-03-12 17:34:03       meraki:     INFO > appliance, updateNetworkApplianceVlansSettings - 200 OK
+2021-03-12 17:34:03       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'createOrganizationActionBatch', 'method': 'POST', 'url': '/organizations/1011273/actionBatches', 'json': {'confirmed': True, 'synchronous': False, 'actions': [{'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 2, 'name': 'VLAN 2', 'applianceIp': '192.168.2.1', 'subnet': '192.168.2.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 3, 'name': 'VLAN 3', 'applianceIp': '192.168.3.1', 'subnet': '192.168.3.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 4, 'name': 'VLAN 4', 'applianceIp': '192.168.4.1', 'subnet': '192.168.4.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 5, 'name': 'VLAN 5', 'applianceIp': '192.168.5.1', 'subnet': '192.168.5.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 6, 'name': 'VLAN 6', 'applianceIp': '192.168.6.1', 'subnet': '192.168.6.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 7, 'name': 'VLAN 7', 'applianceIp': '192.168.7.1', 'subnet': '192.168.7.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 8, 'name': 'VLAN 8', 'applianceIp': '192.168.8.1', 'subnet': '192.168.8.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 9, 'name': 'VLAN 9', 'applianceIp': '192.168.9.1', 'subnet': '192.168.9.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 10, 'name': 'VLAN 10', 'applianceIp': '192.168.10.1', 'subnet': '192.168.10.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 11, 'name': 'VLAN 11', 'applianceIp': '192.168.11.1', 'subnet': '192.168.11.0/24'}}]}}
+2021-03-12 17:34:03       meraki:     INFO > POST https://api.meraki.com/api/v1/organizations/1011273/actionBatches
+2021-03-12 17:34:03       meraki:     INFO > organizations, createOrganizationActionBatch - 201 Created
+2021-03-12 17:34:03       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'getOrganizationActionBatch', 'method': 'GET', 'url': '/organizations/1011273/actionBatches/622059698530550043', 'params': None}
+2021-03-12 17:34:03       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/1011273/actionBatches/622059698530550043
+2021-03-12 17:34:04       meraki:     INFO > organizations, getOrganizationActionBatch - 200 OK
+2021-03-12 17:34:04       meraki:    DEBUG > {'tags': ['appliance', 'configure', 'vlans', 'settings'], 'operation': 'updateNetworkApplianceVlansSettings', 'method': 'PUT', 'url': '/networks/L_622059698530555003/appliance/vlans/settings', 'json': {'vlansEnabled': True}}
+2021-03-12 17:34:04       meraki:     INFO > PUT https://api.meraki.com/api/v1/networks/L_622059698530555003/appliance/vlans/settings
+2021-03-12 17:34:04       meraki:     INFO > appliance, updateNetworkApplianceVlansSettings - 200 OK
+2021-03-12 17:34:04       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'createOrganizationActionBatch', 'method': 'POST', 'url': '/organizations/1011273/actionBatches', 'json': {'confirmed': True, 'synchronous': False, 'actions': [{'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 2, 'name': 'VLAN 2', 'applianceIp': '192.168.2.1', 'subnet': '192.168.2.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 3, 'name': 'VLAN 3', 'applianceIp': '192.168.3.1', 'subnet': '192.168.3.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 4, 'name': 'VLAN 4', 'applianceIp': '192.168.4.1', 'subnet': '192.168.4.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 5, 'name': 'VLAN 5', 'applianceIp': '192.168.5.1', 'subnet': '192.168.5.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 6, 'name': 'VLAN 6', 'applianceIp': '192.168.6.1', 'subnet': '192.168.6.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 7, 'name': 'VLAN 7', 'applianceIp': '192.168.7.1', 'subnet': '192.168.7.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 8, 'name': 'VLAN 8', 'applianceIp': '192.168.8.1', 'subnet': '192.168.8.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 9, 'name': 'VLAN 9', 'applianceIp': '192.168.9.1', 'subnet': '192.168.9.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 10, 'name': 'VLAN 10', 'applianceIp': '192.168.10.1', 'subnet': '192.168.10.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 11, 'name': 'VLAN 11', 'applianceIp': '192.168.11.1', 'subnet': '192.168.11.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 12, 'name': 'VLAN 12', 'applianceIp': '192.168.12.1', 'subnet': '192.168.12.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 13, 'name': 'VLAN 13', 'applianceIp': '192.168.13.1', 'subnet': '192.168.13.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 14, 'name': 'VLAN 14', 'applianceIp': '192.168.14.1', 'subnet': '192.168.14.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 15, 'name': 'VLAN 15', 'applianceIp': '192.168.15.1', 'subnet': '192.168.15.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 16, 'name': 'VLAN 16', 'applianceIp': '192.168.16.1', 'subnet': '192.168.16.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 17, 'name': 'VLAN 17', 'applianceIp': '192.168.17.1', 'subnet': '192.168.17.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 18, 'name': 'VLAN 18', 'applianceIp': '192.168.18.1', 'subnet': '192.168.18.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 19, 'name': 'VLAN 19', 'applianceIp': '192.168.19.1', 'subnet': '192.168.19.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 20, 'name': 'VLAN 20', 'applianceIp': '192.168.20.1', 'subnet': '192.168.20.0/24'}}, {'resource': '/networks/L_622059698530555003/vlans', 'operation': 'create', 'body': {'id': 21, 'name': 'VLAN 21', 'applianceIp': '192.168.21.1', 'subnet': '192.168.21.0/24'}}]}}
+2021-03-12 17:34:04       meraki:     INFO > POST https://api.meraki.com/api/v1/organizations/1011273/actionBatches
+2021-03-12 17:34:05       meraki:     INFO > organizations, createOrganizationActionBatch - 201 Created
+2021-03-12 17:34:05       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'actionBatches'], 'operation': 'getOrganizationActionBatch', 'method': 'GET', 'url': '/organizations/1011273/actionBatches/622059698530550044', 'params': None}
+2021-03-12 17:34:05       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/1011273/actionBatches/622059698530550044
+2021-03-12 17:34:05       meraki:     INFO > organizations, getOrganizationActionBatch - 200 OK
+2021-03-12 17:34:05       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:05       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/52636/networks
+2021-03-12 17:34:05       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:05       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:05       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/578149602163688267/networks
+2021-03-12 17:34:06       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:06       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:06       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/681155/networks
+2021-03-12 17:34:06       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:06       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:06       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842194/networks
+2021-03-12 17:34:07       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:07       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:07       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842363/networks
+2021-03-12 17:34:08       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:08       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:08       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842310/networks
+2021-03-12 17:34:08       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:08       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:08       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842311/networks
+2021-03-12 17:34:08       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:08       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:08       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842322/networks
+2021-03-12 17:34:09       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:09       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:09       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842318/networks
+2021-03-12 17:34:10       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:10       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:10       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842309/networks
+2021-03-12 17:34:10       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:10       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:10       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842313/networks
+2021-03-12 17:34:10       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:10       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:10       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842299/networks
+2021-03-12 17:34:11       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:11       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:11       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842303/networks
+2021-03-12 17:34:12       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:12       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:12       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842329/networks
+2021-03-12 17:34:12       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:12       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:12       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842302/networks
+2021-03-12 17:34:12       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:12       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:12       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842297/networks
+2021-03-12 17:34:13       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:13       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:13       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842301/networks
+2021-03-12 17:34:14       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:14       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:14       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842306/networks
+2021-03-12 17:34:14       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:14       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:14       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842305/networks
+2021-03-12 17:34:15       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:15       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:15       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842323/networks
+2021-03-12 17:34:15       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:15       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:15       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842325/networks
+2021-03-12 17:34:16       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:16       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:16       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842326/networks
+2021-03-12 17:34:17       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
+2021-03-12 17:34:17       meraki:    DEBUG > {'tags': ['organizations', 'configure', 'networks'], 'operation': 'getOrganizationNetworks', 'page': 1}
+2021-03-12 17:34:17       meraki:     INFO > GET https://api.meraki.com/api/v1/organizations/566327653141842328/networks
+2021-03-12 17:34:18       meraki:     INFO > organizations, getOrganizationNetworks; page 1 - 200 OK
